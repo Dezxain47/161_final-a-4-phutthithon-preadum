@@ -4,9 +4,7 @@ using UnityEngine;
 
 class Square : Shape
 {
-    private float raidus;
-
-
+    private int side;
     public override void CalculateArea()
     {
         
